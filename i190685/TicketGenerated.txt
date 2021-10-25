@@ -1,0 +1,12 @@
+#################################################################################
+|                                    EMIRATES                                    |
+|                                 FLIGHT TICKET                                  |
+|                                                                                |
+|NAME:          VF, FR                                                           |
+|FLIGHT:        EMIRATES                                         TUE 31 DEC 2019 |
+|DEPARTURE:     UAE                                                 31 DEC  12:0 |
+|ARRIVAL:       ISLAMABAD                                           31 DEC  2:50 |
+|SEAT:          01-B                                                             |
+|               RESERVATION CONFIRMED, ECONOMY                                   |
+|                                                                                |
+#################################################################################
